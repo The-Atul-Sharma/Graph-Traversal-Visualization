@@ -1,0 +1,10 @@
+.center {
+   text-align: center;
+}
+
+#myCanvas {
+    width: 60%;
+    height: 50%;
+    text-align: center;
+    margin-top: 2%;
+}
